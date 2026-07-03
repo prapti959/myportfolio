@@ -364,5 +364,15 @@ flex-wrap:wrap;
 margin:auto;
 
 }
-
+#skills ul {
+list-style: none;
+display: flex;
+gap: 10px;
+}
+#skills li {
+background: #2c3e50;
+color: white;
+padding: 6px 14px;
+border-radius: 20px;
+}
 }
